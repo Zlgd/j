@@ -1,0 +1,30 @@
+{
+  "versions": {
+    "12": {
+      "battle_url": [
+        "http://31.186.98.237/jurassic/login/"
+      ],
+      "main_url": [
+        "http://31.186.98.237/jurassic/"
+      ],
+      "ping_urls": [
+        "http://31.186.98.237/jurassic_ts"
+      ],
+      "ads_lang": [],
+      "ads_lang_ios": [],
+      "reference_urls": [
+        "http://31.186.98.237/static/d25.dat"
+      ],
+      "show_patch_note": true,
+      "patch_note_urls": [
+        "http://31.186.98.237/static/p16.json"
+      ],
+      "platform": [
+        "ios",
+        "android"
+      ],
+      "data_crc": [],
+      "crc_path": []
+    }
+  }
+}
